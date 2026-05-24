@@ -37,8 +37,10 @@ This project explores how various student habits — like sleep, social media us
 
 ### 6. Evaluation Metrics
 Evaluated the model using:
-- MAE (Mean Absolute Error)
-- MSE (Mean Squared Error)
-- RMSE (Root Mean Squared Error)
+MAE: 4.550046323849038
+MSE: 42.43296701792933
+RMSE: 6.514059181334579
+R² Score: 0.8180039886821837
+
 - R² Score (Coefficient of Determination)
 
